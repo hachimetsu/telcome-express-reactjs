@@ -1,0 +1,148 @@
+{
+    "$navbar": {
+        "brand": "Navbar-1",
+        "expand": "md",
+        "search": true,
+        "search_btn": "hide",
+        "theme": "dark",
+        "items": [
+            {
+                "name": "About",
+                "href": "/about"
+            },
+            {
+                "name": "Items",
+                "href": "/items"
+            },
+            {
+                "name": "Admin",
+                "href": "/admin"
+            },
+            {
+                "name": "dropdown",
+                "drop": [
+                    {
+                        "name": "drop-1",
+                        "href": "/drop1"
+                    },
+                    {
+                        "name": "drop-2",
+                        "href": "/drop2"
+                    }
+                ]
+            }
+        ]
+    },
+    "$slideshow": [
+        {
+            "src": "https://imgs.search.brave.com/5HQBrsaMCKrNxqnMNDA16Xxg7QkzT5pZq0nyHXo2I2I/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5h/dnhodFFxcjVGb3Vi/R2pxNHNJWHVnSGFF/byZwaWQ9QXBp",
+            "caption": {
+                "title": "First slide label",
+                "para": "1 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod voluptas atque odio aliquid explicabo deserunt ea eveniet accusamus. Quas repellendus iusto porro vitae cupiditate, adipisci animi reprehenderit nemo sunt velit!"
+            }
+        },
+        {
+            "src": "https://imgs.search.brave.com/QBULfTm15_suunP_IqgpzrZZ2sHgX_3Ea2ocdM1RpPQ/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC4w/a3UxQXZVb19fLW9o/eEg0RXFUWE9BSGFF/byZwaWQ9QXBp",
+            "caption": {
+                "title": "Second slide label",
+                "para": "2 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod voluptas atque odio aliquid explicabo deserunt ea eveniet accusamus. Quas repellendus iusto porro vitae cupiditate, adipisci animi reprehenderit nemo sunt velit!"
+            }
+        },
+        {
+            "src": "https://imgs.search.brave.com/8BCRXokxth8-cCPHnq5gTfjoCN2Ke9sLuz4yXyZnbI0/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/dElQZjBuRDZTeHkz/SGNBaFFKbkdBSGFF/OCZwaWQ9QXBp",
+            "caption": {
+                "title": "Third slide label",
+                "para": "3 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod voluptas atque odio aliquid explicabo deserunt ea eveniet accusamus. Quas repellendus iusto porro vitae cupiditate, adipisci animi reprehenderit nemo sunt velit!"
+            }
+        }
+    ],
+    "$items": [
+        {
+            "title": "Accordion Item #1",
+            "detail": "1 1 1 1 Lorem ipsum dolor sit amet consectetur adipisicing elit.Repudiandae totam minus eum sint quaerat quia, voluptas similique sit provident ipsum itaque alias.Dicta fugiat tempora, nisi commodi quod ea assumenda?"
+        },
+        {
+            "title": "Accordion Item #2",
+            "detail": "2 2 2 2 Lorem ipsum dolor sit amet consectetur adipisicing elit.Repudiandae totam minus eum sint quaerat quia, voluptas similique sit provident ipsum itaque alias.Dicta fugiat tempora, nisi commodi quod ea assumenda?"
+        }
+    ],
+    "$footer": {
+        "site": "website.com",
+        "detail_para": "Here you can use rows and columns to organize your footer content. Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "social": [
+            {
+                "class": "fab fa-facebook-f",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-twitter",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-google",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-instagram",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-linkedin",
+                "href": "#!"
+            },
+            {
+                "class": "fab fa-github",
+                "href": "#!"
+            }
+        ],
+        "products": [
+            {
+                "name": "Phones",
+                "href": "/phones"
+            },
+            {
+                "name": "Earphones",
+                "href": "/earphones"
+            },
+            {
+                "name": "Headsets",
+                "href": "/headsets"
+            },
+            {
+                "name": "Earbuds",
+                "href": "/earbuds"
+            }
+        ],
+        "links": [
+            {
+                "name": "Home",
+                "href": "/"
+            },
+            {
+                "name": "About",
+                "href": "/about"
+            },
+            {
+                "name": "Email",
+                "href": "#!"
+            }
+        ],
+        "contacts": [
+            {
+                "class": "fas fa-home me-3",
+                "detail": "Address none",
+                "href": ""
+            },
+            {
+                "class": "fas fa-envelope me-3",
+                "detail": "Email here !",
+                "href": ""
+            },
+            {
+                "class": "fas fa-phone me-3",
+                "detail": "+91 123 456 7890",
+                "href": ""
+            }
+        ]
+    }
+}
